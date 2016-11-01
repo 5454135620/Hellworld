@@ -1,0 +1,11 @@
+#2016.11.1星期二下午晴
+#The  First project a time-honored tradition --- helloworld.
+#第一个java程序
+public class Helloworld{
+//Java程序入口方法，程序将从这里开始执行
+  public static void main(string[] args)
+  {
+    //向控制台打印输出一条控制语句
+    System.out.println("Hello World!");
+  }
+}
